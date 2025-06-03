@@ -11,4 +11,4 @@ Terraform configurations must declare which providers they require, so that Terr
 Popular Terraform Providers include: AWS, Azure, Google Cloud, VMware, Kubernetes and Oracle.
 
 To install the Terraform AWS provider, and set the provider version in a way that is very similar to how you did for Terraform. 
-To begin you need to let Terraform know to use the provider through a required_providers block in the terraform.tf file as seen below.
+To begin you need to let Terraform know to use the provider through a required_providers block in the terraform.tf file as seen above.
